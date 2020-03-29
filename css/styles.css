@@ -19,7 +19,7 @@
         4. Lead Styles
         5. About Styles
         6. Experience Styles
-        7. Education Styles
+        7. Hobbies Styles
         8. Project Styles
         9. Skills Styles
         10. Contact Styles
@@ -530,7 +530,6 @@ footer {
 .vtimeline-point {
   position: relative;
   display: block;
-  vertical-align: top;
   margin-bottom: 30px;
 }
 
@@ -564,21 +563,21 @@ footer {
 
 /*
     -------------------------------
-    ----- 7. Education Styles -----
+    ----- 7. Hobbies Styles -----
     -------------------------------
 */
-#education {
+#hobbies {
   padding: 50px 15px 20px 15px;
   border-bottom: 1px solid #dcd9d9;
   text-align: center;
 }
 
-#education h2 {
+#hobbies h2 {
   color: #374054;
   margin-bottom: 50px;
 }
 
-.education-block {
+.hobbies-block {
   max-width: 700px;
   margin: 0 auto 30px auto;
   padding: 15px;
@@ -586,32 +585,32 @@ footer {
   text-align: left;
 }
 
-.education-block h3 {
+.hobbies-block h3 {
   font-weight: 500;
   float: left;
   margin: 0;
   color: #374054;
 }
 
-.education-block span {
+.hobbies-block span {
   color: #74808a;
   float: right;
 }
 
-.education-block h4 {
+.hobbies-block h4 {
   color: #74808a;
   clear: both;
   font-weight: 500;
   margin: 0 0 15px 0;
 }
 
-.education-block p, .education-block ul {
+.hobbies-block p, .hobbies-block ul {
   margin: 0;
   color: #74808a;
   font-size: 0.9em;
 }
 
-.education-block ul {
+.hobbies-block ul {
   padding: 0 0 0 15px;
 }
 
@@ -931,7 +930,7 @@ footer {
   #lead-down {
     display: none;
   }
-  .education-block h3, .education-block span {
+  .hobbies-block h3, .hobbies-block span {
     float: none;
   }
   .project-image {

@@ -24,7 +24,7 @@ To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/
     - [Lead Section](#lead-section)
     - [About Section](#about-section)
     - [Experience Section](#experience-section)
-    - [Education Section](#education-section)
+    - [Hobbies Section](#hobbies-section)
     - [Projects Section](#projects-section)
     - [Skills Section](#skills-section)
     - [Contact Section](#contact-section)

@@ -19,7 +19,7 @@
         4. Lead Styles
         5. About Styles
         6. Experience Styles
-        7. Education Styles
+        7. Hobbies Styles
         8. Project Styles
         9. Skills Styles
         10. Contact Styles
@@ -576,11 +576,11 @@ footer {
 
 /*
     -------------------------------
-    ----- 7. Education Styles -----
+    ----- 7. Hobbies Styles -----
     -------------------------------
 */
 
-#education {
+#hobbies {
     padding: 50px 15px 20px 15px;
     border-bottom: 1px solid $border;
     text-align: center;
@@ -591,7 +591,7 @@ footer {
     }
 }
 
-.education-block {
+.hobbies-block {
     max-width: 700px;
     margin: 0 auto 30px auto;
     padding: 15px;
@@ -956,7 +956,7 @@ footer {
         display: none;
     }
 
-    .education-block {
+    .hobbies-block {
         h3, span {
             float: none;
         }
